@@ -12,6 +12,6 @@ Features
  * Voltage regulator for converting 12V to 5V
  * Arduino Pro Micro
  * PWM LED driver for
- * Sun LED board
+ * Sun LED board as a wake up light
  
  ![Internals](img/AlarmSunClock2.jpg)
